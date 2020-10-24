@@ -25,5 +25,8 @@
 .grid > div{
     width: 20px;
     height: 20px;
+}
+
+.tetrimino{
     background-color: crimson;
 }
