@@ -8,12 +8,13 @@ header{
     margin: 0 auto;
     text-align: center;
     padding: 15px 20px;
-    background-color: #061A40;
+    background-color: #A6A15E;
 }
 body{
-    background-color: #061A40;
+    background-color: #A6A15E;
 }
 #start-button{
+    border-radius: 5px;
     position: relative;
     left: -150px;
     border: 4px solid #FCF7F8;
@@ -49,7 +50,7 @@ h3{
     flex-wrap: wrap;
     width: 200px;
     height: 400px;
-    background-color: #4281A4 ;
+    background-color: #FFD6E0;
 }
 
 .grid > div{
@@ -68,7 +69,7 @@ h3{
     height: 80px;
     display: flex;
     flex-wrap: wrap;
-    background-color: #4281A4;
+    background-color: #FFD6E0;
 }
 
 .mini-grid > div{

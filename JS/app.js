@@ -9,7 +9,7 @@ let score = 0;
 const color = [
     '#DC143C',
     '#2AB7CA',
-    '#FED766',
+    '#FED65D',
     '#ab87ff',
     '#fface4'
 ]
