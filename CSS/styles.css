@@ -1,0 +1,29 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+#start-button{
+    border: 4px solid gray;
+    margin: 15px auto;
+    width: 75px;
+    padding: 5px;
+}
+
+#start-button:hover{
+    cursor: pointer;
+    background-color: gray;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+}
+
+.grid > div{
+    width: 20px;
+    height: 20px;
+    background-color: crimson;
+}

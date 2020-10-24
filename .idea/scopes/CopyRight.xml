@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="CopyRight" pattern="file[TetrisJS]:*" />
+</component>
